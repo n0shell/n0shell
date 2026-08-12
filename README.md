@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**n0shell/n0shell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=FFFFFF&center=false&vCenter=true&width=440&height=40&lines=n0shell%40github%3A~%24+.%2Frun_profile.sh&repeat=false)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+```bash
+n0shell@github:~$ cat README.md
+```
+
+```
+this is my repo, my showcase,
+my workshop.
+
+i keep the projects, scripts
+and tools i build for myself,
+and share them openly in case
+they're useful to someone else.
+```
+
+<br>
+
+```bash
+n0shell@github:~$ cat stack.txt
+```
+
+```
+python
+javascript
+html
+css
+
+always learning. always
+expanding.
+```
+
+<br>
+
+```bash
+n0shell@github:~$ cat about.txt
+```
+
+```
+ex-competitive CS2 player
+
+crypto trading
+
+🇪🇸 🇦🇷
+```
+
+<br>
+
+```bash
+n0shell@github:~$ cat contact.txt
+```
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ERJXY7jHy)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n0.shell)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```bash
+n0shell@github:~$ █
+```
+
+</div>
