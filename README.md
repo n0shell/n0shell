@@ -47,7 +47,7 @@ ex-competitive CS2 player
 
 crypto trading
 
-🇪🇸 🇦🇷
+🇪🇸 | 🇦🇷
 ```
 
 <br>
