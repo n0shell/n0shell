@@ -58,7 +58,7 @@ n0shell@github:~$ cat contact.txt
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ERJXY7jHy)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/CdgQqEEUz7)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n0.shell)
 
 </div>
