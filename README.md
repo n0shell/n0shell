@@ -17,6 +17,7 @@ Sin rastreo, sin telemetría, sin muros de pago y cero relleno corporativo
 
   🔭 Actualmente enfocado en **herramientas web ligeras, offline-first y enfocadas en la privacidad** 🔭<br>
   🛠️ Creando utilidades sencillas sin rastreo ni dependencias innecesarias 🛠️ <br>
+  🛠️ Abajo muestro mis proyectos personales principales (el resto de repositorios son utilidades varias o proyectos locales) 🛠️ <br>
   🤝 Abierto a colaborar en **proyectos de software libre y código abierto** 🤝<br>
   💬 Pregúntame sobre **Linux, privacidad digital o desarrollo web frontend** 💬<br>
 
