@@ -13,6 +13,8 @@ Sin rastreo, sin telemetría, sin muros de pago y cero relleno corporativo
 
 <br>
 
+---
+
 ### 🚀 En qué estoy trabajando 🚀
 
   🔭 Actualmente enfocado en **herramientas web ligeras, offline-first y enfocadas en la privacidad** 🔭<br>
@@ -23,11 +25,15 @@ Sin rastreo, sin telemetría, sin muros de pago y cero relleno corporativo
 
 <br>
 
+---
+
 ### 🛠️ Proyectos Destacados 🛠️
 
  🏋️ **n0gym** — Aplicación web offline-first para seguimiento de entrenamiento y rutinas
 
 <br>
+
+---
 
 ### 💻 Tecnologías y Herramientas 💻
 
