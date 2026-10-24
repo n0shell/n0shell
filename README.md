@@ -6,10 +6,10 @@
 
 ### 🛡️ Sobre mí y Filosofía 🛡️
 
-Desarrollo software que respeta tu libertad.  
-Sin rastreo, sin telemetría, sin muros de pago y cero relleno corporativo.  
+Desarrollo software que respeta tu libertad  
+Sin rastreo, sin telemetría, sin muros de pago y cero relleno corporativo  
 
-<p align="center"><b>La privacidad es un derecho, no una función. no dejes que te la quiten.</b></p>
+<p align="center"><b>La privacidad es un derecho, no una función. NO DEJES QUE TE LA QUITEN</b></p>
 
 <br>
 
@@ -24,7 +24,7 @@ Sin rastreo, sin telemetría, sin muros de pago y cero relleno corporativo.
 
 ### 🛠️ Proyectos Destacados 🛠️
 
- 🏋️ **n0gym** — Aplicación web offline-first para seguimiento de entrenamiento y rutinas.
+ 🏋️ **n0gym** — Aplicación web offline-first para seguimiento de entrenamiento y rutinas
 
 <br>
 
