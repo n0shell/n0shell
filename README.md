@@ -38,7 +38,7 @@ Sin rastreo, sin telemetría, sin muros de pago y cero relleno corporativo
 ### 💻 Tecnologías y Herramientas 💻
 
 #### 🖥️ Sistemas Operativos 🖥️
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Endeavour OS](https://img.shields.io/badge/EndeavourOS-1793D1?style=for-the-badge&logo=EndeavourOSx&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
 #### 🌐 Lenguajes & Entorno Web 🌐
